@@ -40,7 +40,7 @@ L_MLX		= libmlx.dylib
 DIR_HDR		= include
 DIR_SRC		= source
 DIR_L_FT	= libft
-DIR_L_MLX	= mlx
+DIR_L_MLX	= libmlx
 
 all			: $(NAME)
 
